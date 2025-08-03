@@ -1,0 +1,10 @@
+version=0.0.0
+[added]
+assets/logo.png
+data/new_config.json
+[modified]
+wordpocket.exe
+fonts/font.ttf
+localization/en-US.json
+[removed]
+temp/old_readme.txt
