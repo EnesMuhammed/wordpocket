@@ -36,6 +36,9 @@ Bu dosya, WordPocket uygulaması için planlanan tüm yeni özellikleri ve geli�
 
 - [ ] **Klavye Kısayolları (Hotkeys)**
   - Hızlı erişim için özelleştirilebilir kısayollar eklenecek.
+     
+- [ ] **Otomatik Dil Algılama**
+  - Ayarlardan düzenlenebilir.
 
 - [ ] **Arama ve Filtreleme Özelliği**
   - Kaydedilen kelimelerde arama ve filtreleme yapılabilecek.
