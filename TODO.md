@@ -26,6 +26,11 @@ Bu dosya, WordPocket uygulaması için planlanan tüm yeni özellikleri ve geli�
   - Buton yoğunluğu azaltılacak.
   - Köşe radius’ları ve maskeleme fonksiyonları iyileştirilecek.
 
+- [ ] **Daha Fazla Dil Desteği**
+  - Diller kodun içinde belirtilmek yerine languages.json oluşturulacak
+  - Olabildiğince fazla sayıda dil eklenecek. Artık eklenmesi kolay olduğu için biraz biraz eklenebilir.
+
+
 ## 🧠 Ekstra Geliştirme Önerileri
 
 - [ ] **Klavye Kısayolları (Hotkeys)**
