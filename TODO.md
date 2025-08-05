@@ -12,6 +12,7 @@ Bu dosya, WordPocket uygulaması için planlanan tüm yeni özellikleri ve geli�
   - Oturum boyunca eklenen kelimeler "oturum görünümünde" gruplanacak.
   - Normal görünüm korunacak.
   - "Geçmiş" görünümünde tüm dillerden son eklenen kelimeler listelenecek.
+  - Save butonunun yanına küçük bir ok butonu eklenecek, bu butona tıklandığında direkt olarak koleksiyona eklenebilecek ama normal şekilde eklenmiş de olacak.
 
 - [ ] **Koleksiyon Oluşturma ve PDF Aktarımı**
   - Herhangi bir görünümden seçilen kelimeler koleksiyon hâline getirilebilecek.
