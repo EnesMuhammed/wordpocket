@@ -3,6 +3,9 @@
 Bu dosya, WordPocket uygulaması için planlanan tüm yeni özellikleri ve geliştirme maddelerini içermektedir. Aşağıdaki maddeler; sistem tepsisi desteği, kullanıcı arayüzü güncellemeleri, koleksiyon yönetimi ve diğer geliştirme fikirlerini kapsamaktadır.
 
 ## ✅ Planlanan Özellikler (Ana Hedefler)
+- [ ] **Extra**
+  - Savefiledialog, documents te başlayacak.
+  - Sistemden light/dark mod çekilecek ve theme ona göre ayarlanabilecek (theme seçiliyse windowsta theme değişince etkilenmemeli).
 
 - [ ] **System Tray Desteği**
   - Uygulama kapatılsa bile system tray’de çalışmaya devam edecek.
